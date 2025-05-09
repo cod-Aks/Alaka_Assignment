@@ -1,0 +1,333 @@
+2025-05-09 17:07:48,746 - INFO - Data saved Successfully
+2025-05-09 17:08:39,438 - INFO - Data saved Successfully
+2025-05-09 17:10:47,429 - INFO - Data saved Successfully
+2025-05-09 17:11:34,533 - INFO - Data saved Successfully
+2025-05-09 17:13:00,048 - INFO - Data saved Successfully
+2025-05-09 17:22:59,364 - INFO - Candle Comination Started
+2025-05-09 17:23:52,492 - INFO - Candle Comination Started
+2025-05-09 17:23:58,286 - INFO - Combination of Candles into1 minute candle is complete and the new data has 9000 rows
+2025-05-09 17:25:32,138 - INFO - Candle Comination Started
+2025-05-09 17:25:37,004 - INFO - Combination of Candles into1 minute candle is complete and the new data has 9000 rows
+2025-05-09 17:26:31,492 - INFO - Candle Comination Started
+2025-05-09 17:26:38,040 - INFO - Combination of Candles into1 minute candle is complete and the new data has 9000 rows
+2025-05-09 17:26:38,290 - INFO - Output will be saved in the current directory
+2025-05-09 17:26:38,321 - INFO - Candle Comination Started
+2025-05-09 17:26:44,327 - INFO - Combination of Candles into1 minute candle is complete and the new data has 9000 rows
+2025-05-09 17:26:44,491 - INFO - Output will be saved in the current directory
+2025-05-09 17:26:44,521 - INFO - Candle Comination Started
+2025-05-09 17:26:51,594 - INFO - Combination of Candles into1 minute candle is complete and the new data has 9000 rows
+2025-05-09 17:26:51,773 - INFO - Output will be saved in the current directory
+2025-05-09 17:26:51,798 - INFO - Candle Comination Started
+2025-05-09 17:26:59,472 - INFO - Combination of Candles into1 minute candle is complete and the new data has 9000 rows
+2025-05-09 17:26:59,649 - INFO - Output will be saved in the current directory
+2025-05-09 17:26:59,729 - INFO - Candle Comination Started
+2025-05-09 17:27:07,489 - INFO - Combination of Candles into1 minute candle is complete and the new data has 9000 rows
+2025-05-09 17:27:07,653 - INFO - Output will be saved in the current directory
+2025-05-09 17:27:07,675 - INFO - Candle Comination Started
+2025-05-09 17:27:50,834 - INFO - Candle Comination Started
+2025-05-09 17:27:51,855 - INFO - Combination of Candles into5 minute candle is complete and the new data has 1800 rows
+2025-05-09 17:27:51,881 - INFO - Output will be saved in the current directory
+2025-05-09 17:27:51,889 - INFO - Candle Comination Started
+2025-05-09 17:27:53,240 - INFO - Combination of Candles into5 minute candle is complete and the new data has 1800 rows
+2025-05-09 17:27:53,269 - INFO - Output will be saved in the current directory
+2025-05-09 17:27:53,279 - INFO - Candle Comination Started
+2025-05-09 17:27:54,309 - INFO - Combination of Candles into5 minute candle is complete and the new data has 1800 rows
+2025-05-09 17:27:54,332 - INFO - Output will be saved in the current directory
+2025-05-09 17:27:54,343 - INFO - Candle Comination Started
+2025-05-09 17:27:55,976 - INFO - Combination of Candles into5 minute candle is complete and the new data has 1800 rows
+2025-05-09 17:27:56,000 - INFO - Output will be saved in the current directory
+2025-05-09 17:27:56,012 - INFO - Candle Comination Started
+2025-05-09 17:27:57,108 - INFO - Combination of Candles into5 minute candle is complete and the new data has 1800 rows
+2025-05-09 17:27:57,191 - INFO - Output will be saved in the current directory
+2025-05-09 17:27:57,198 - INFO - Candle Comination Started
+2025-05-09 17:27:58,244 - INFO - Combination of Candles into5 minute candle is complete and the new data has 1800 rows
+2025-05-09 17:27:58,274 - INFO - Output will be saved in the current directory
+2025-05-09 17:27:58,368 - INFO - Candle Comination Started
+2025-05-09 17:27:59,327 - INFO - Combination of Candles into5 minute candle is complete and the new data has 1800 rows
+2025-05-09 17:27:59,349 - INFO - Output will be saved in the current directory
+2025-05-09 17:28:03,666 - INFO - Data combining
+2025-05-09 17:30:20,655 - INFO - Candle Comination Started
+2025-05-09 17:30:20,723 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:30:20,729 - INFO - Output will be saved in the current directory
+2025-05-09 17:30:20,750 - INFO - Candle Comination Started
+2025-05-09 17:30:20,820 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:30:20,825 - INFO - Output will be saved in the current directory
+2025-05-09 17:30:20,850 - INFO - Candle Comination Started
+2025-05-09 17:30:20,964 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:30:20,970 - INFO - Output will be saved in the current directory
+2025-05-09 17:30:21,000 - INFO - Candle Comination Started
+2025-05-09 17:30:21,110 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:30:21,118 - INFO - Output will be saved in the current directory
+2025-05-09 17:30:21,145 - INFO - Candle Comination Started
+2025-05-09 17:30:21,242 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:30:21,252 - INFO - Output will be saved in the current directory
+2025-05-09 17:30:21,283 - INFO - Candle Comination Started
+2025-05-09 17:30:21,391 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:30:21,397 - INFO - Output will be saved in the current directory
+2025-05-09 17:30:21,414 - INFO - Candle Comination Started
+2025-05-09 17:30:21,480 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:30:21,486 - INFO - Output will be saved in the current directory
+2025-05-09 17:30:24,671 - INFO - Data combining
+2025-05-09 17:31:17,957 - INFO - Candle Comination Started
+2025-05-09 17:31:18,020 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:31:18,026 - INFO - Output will be saved in the current directory
+2025-05-09 17:31:18,047 - INFO - Candle Comination Started
+2025-05-09 17:31:18,133 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:31:18,140 - INFO - Output will be saved in the current directory
+2025-05-09 17:31:18,156 - INFO - Candle Comination Started
+2025-05-09 17:31:18,217 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:31:18,222 - INFO - Output will be saved in the current directory
+2025-05-09 17:31:18,239 - INFO - Candle Comination Started
+2025-05-09 17:31:18,317 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:31:18,322 - INFO - Output will be saved in the current directory
+2025-05-09 17:31:18,341 - INFO - Candle Comination Started
+2025-05-09 17:31:18,416 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:31:18,421 - INFO - Output will be saved in the current directory
+2025-05-09 17:31:18,442 - INFO - Candle Comination Started
+2025-05-09 17:31:18,523 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:31:18,532 - INFO - Output will be saved in the current directory
+2025-05-09 17:31:18,568 - INFO - Candle Comination Started
+2025-05-09 17:31:18,654 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 17:31:18,673 - INFO - Output will be saved in the current directory
+2025-05-09 17:31:22,860 - INFO - Data combining
+2025-05-09 20:49:03,367 - INFO - Converting dataframe
+2025-05-09 20:49:10,302 - INFO - Plotting Levels
+2025-05-09 20:52:05,646 - INFO - Converting dataframe
+2025-05-09 20:52:28,678 - INFO - Plotting Levels
+2025-05-09 21:05:08,486 - INFO - Candle Comination Started
+2025-05-09 21:05:08,539 - INFO - Combination of Candles into3 minute candle is complete and the new data has 125 rows
+2025-05-09 21:05:08,548 - INFO - Output will be saved in the current directory
+2025-05-09 21:05:16,703 - INFO - Data combining
+2025-05-09 21:05:29,437 - INFO - Converting dataframe
+2025-05-09 21:05:54,912 - INFO - Plotting Levels
+2025-05-09 21:06:35,839 - INFO - Candle Comination Started
+2025-05-09 21:06:35,870 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:06:35,873 - INFO - Output will be saved in the current directory
+2025-05-09 21:06:35,882 - INFO - Candle Comination Started
+2025-05-09 21:06:35,908 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:06:35,910 - INFO - Output will be saved in the current directory
+2025-05-09 21:06:35,919 - INFO - Candle Comination Started
+2025-05-09 21:06:35,943 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:06:35,946 - INFO - Output will be saved in the current directory
+2025-05-09 21:06:35,968 - INFO - Candle Comination Started
+2025-05-09 21:06:35,994 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:06:35,996 - INFO - Output will be saved in the current directory
+2025-05-09 21:06:36,004 - INFO - Candle Comination Started
+2025-05-09 21:06:36,029 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:06:36,033 - INFO - Output will be saved in the current directory
+2025-05-09 21:06:36,040 - INFO - Candle Comination Started
+2025-05-09 21:06:36,066 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:06:36,068 - INFO - Output will be saved in the current directory
+2025-05-09 21:06:36,076 - INFO - Candle Comination Started
+2025-05-09 21:06:36,101 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:06:36,104 - INFO - Output will be saved in the current directory
+2025-05-09 21:06:45,242 - INFO - Data combining
+2025-05-09 21:06:54,758 - INFO - Converting dataframe
+2025-05-09 21:06:58,966 - INFO - Plotting Levels
+2025-05-09 21:07:38,826 - INFO - Candle Comination Started
+2025-05-09 21:07:38,842 - INFO - Combination of Candles into10 minute candle is complete and the new data has 38 rows
+2025-05-09 21:07:38,900 - INFO - Output will be saved in the current directory
+2025-05-09 21:07:44,228 - INFO - Data combining
+2025-05-09 21:07:57,017 - INFO - Converting dataframe
+2025-05-09 21:08:01,624 - INFO - Plotting Levels
+2025-05-09 21:12:20,658 - INFO - Converting dataframe
+2025-05-09 21:12:23,109 - INFO - Plotting Levels
+2025-05-09 21:13:05,267 - INFO - Converting dataframe
+2025-05-09 21:13:06,668 - INFO - Plotting Levels
+2025-05-09 21:16:53,248 - INFO - Converting dataframe
+2025-05-09 21:16:56,115 - INFO - Plotting Levels
+2025-05-09 21:25:34,728 - INFO - Converting dataframe
+2025-05-09 21:25:36,983 - INFO - Plotting Levels
+2025-05-09 21:30:44,322 - INFO - Candle Comination Started
+2025-05-09 21:30:44,369 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:30:44,372 - INFO - Output will be saved in the current directory
+2025-05-09 21:30:48,201 - INFO - Data combining
+2025-05-09 21:30:52,645 - INFO - Converting dataframe
+2025-05-09 21:30:55,072 - INFO - Plotting Levels
+2025-05-09 21:33:02,072 - INFO - Candle Comination Started
+2025-05-09 21:33:02,101 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:02,104 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:02,112 - INFO - Candle Comination Started
+2025-05-09 21:33:02,137 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:02,140 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:02,148 - INFO - Candle Comination Started
+2025-05-09 21:33:02,172 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:02,175 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:02,184 - INFO - Candle Comination Started
+2025-05-09 21:33:02,211 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:02,213 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:02,222 - INFO - Candle Comination Started
+2025-05-09 21:33:02,249 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:02,251 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:02,260 - INFO - Candle Comination Started
+2025-05-09 21:33:02,286 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:02,288 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:02,297 - INFO - Candle Comination Started
+2025-05-09 21:33:02,323 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:02,326 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:02,725 - WARNING - Invalid Command
+2025-05-09 21:33:02,970 - ERROR - Invlaid Input
+2025-05-09 21:33:43,804 - INFO - Candle Comination Started
+2025-05-09 21:33:43,833 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:43,840 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:43,849 - INFO - Candle Comination Started
+2025-05-09 21:33:43,877 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:43,879 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:43,890 - INFO - Candle Comination Started
+2025-05-09 21:33:43,919 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:43,922 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:43,932 - INFO - Candle Comination Started
+2025-05-09 21:33:43,962 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:43,964 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:43,974 - INFO - Candle Comination Started
+2025-05-09 21:33:44,005 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:44,008 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:44,016 - INFO - Candle Comination Started
+2025-05-09 21:33:44,044 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:44,047 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:44,055 - INFO - Candle Comination Started
+2025-05-09 21:33:44,083 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:33:44,086 - INFO - Output will be saved in the current directory
+2025-05-09 21:33:44,117 - WARNING - Invalid Command
+2025-05-09 21:33:44,265 - ERROR - Invlaid Input
+2025-05-09 21:49:44,999 - INFO - Candle Comination Started
+2025-05-09 21:49:45,029 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:49:45,032 - INFO - Output will be saved in the current directory
+2025-05-09 21:49:45,041 - INFO - Candle Comination Started
+2025-05-09 21:49:45,066 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:49:45,069 - INFO - Output will be saved in the current directory
+2025-05-09 21:49:45,077 - INFO - Candle Comination Started
+2025-05-09 21:49:45,101 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:49:45,104 - INFO - Output will be saved in the current directory
+2025-05-09 21:49:45,113 - INFO - Candle Comination Started
+2025-05-09 21:49:45,138 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:49:45,140 - INFO - Output will be saved in the current directory
+2025-05-09 21:49:45,149 - INFO - Candle Comination Started
+2025-05-09 21:49:45,174 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:49:45,177 - INFO - Output will be saved in the current directory
+2025-05-09 21:49:45,185 - INFO - Candle Comination Started
+2025-05-09 21:49:45,209 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:49:45,211 - INFO - Output will be saved in the current directory
+2025-05-09 21:49:45,219 - INFO - Candle Comination Started
+2025-05-09 21:49:45,243 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:49:45,246 - INFO - Output will be saved in the current directory
+2025-05-09 21:49:47,900 - INFO - Data combining
+2025-05-09 21:49:50,484 - INFO - Converting dataframe
+2025-05-09 21:49:53,316 - INFO - Plotting Levels
+2025-05-09 21:52:00,913 - INFO - Candle Comination Started
+2025-05-09 21:52:00,943 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:00,947 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:00,955 - INFO - Candle Comination Started
+2025-05-09 21:52:00,989 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:00,992 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:01,002 - INFO - Candle Comination Started
+2025-05-09 21:52:01,029 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:01,032 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:01,040 - INFO - Candle Comination Started
+2025-05-09 21:52:01,065 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:01,067 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:01,075 - INFO - Candle Comination Started
+2025-05-09 21:52:01,102 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:01,105 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:01,114 - INFO - Candle Comination Started
+2025-05-09 21:52:01,142 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:01,146 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:01,154 - INFO - Candle Comination Started
+2025-05-09 21:52:01,185 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:01,187 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:04,374 - INFO - Data combining
+2025-05-09 21:52:08,700 - ERROR - Invlaid Input
+2025-05-09 21:52:16,382 - INFO - Candle Comination Started
+2025-05-09 21:52:16,411 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:16,414 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:16,423 - INFO - Candle Comination Started
+2025-05-09 21:52:16,449 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:16,453 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:16,461 - INFO - Candle Comination Started
+2025-05-09 21:52:16,493 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:16,497 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:16,506 - INFO - Candle Comination Started
+2025-05-09 21:52:16,532 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:16,535 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:16,543 - INFO - Candle Comination Started
+2025-05-09 21:52:16,568 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:16,571 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:16,578 - INFO - Candle Comination Started
+2025-05-09 21:52:16,604 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:16,606 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:16,614 - INFO - Candle Comination Started
+2025-05-09 21:52:16,638 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:52:16,641 - INFO - Output will be saved in the current directory
+2025-05-09 21:52:19,250 - INFO - Data combining
+2025-05-09 21:52:21,390 - INFO - Converting dataframe
+2025-05-09 21:52:24,204 - INFO - Plotting Levels
+2025-05-09 21:55:11,446 - INFO - Candle Comination Started
+2025-05-09 21:55:11,478 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:55:11,481 - INFO - Output will be saved in the current directory
+2025-05-09 21:55:11,488 - INFO - Candle Comination Started
+2025-05-09 21:55:11,514 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:55:11,517 - INFO - Output will be saved in the current directory
+2025-05-09 21:55:11,525 - INFO - Candle Comination Started
+2025-05-09 21:55:11,551 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:55:11,554 - INFO - Output will be saved in the current directory
+2025-05-09 21:55:11,563 - INFO - Candle Comination Started
+2025-05-09 21:55:11,593 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:55:11,596 - INFO - Output will be saved in the current directory
+2025-05-09 21:55:11,604 - INFO - Candle Comination Started
+2025-05-09 21:55:11,630 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:55:11,633 - INFO - Output will be saved in the current directory
+2025-05-09 21:55:11,641 - INFO - Candle Comination Started
+2025-05-09 21:55:11,667 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:55:11,669 - INFO - Output will be saved in the current directory
+2025-05-09 21:55:11,677 - INFO - Candle Comination Started
+2025-05-09 21:55:11,702 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 21:55:11,705 - INFO - Output will be saved in the current directory
+2025-05-09 21:55:11,738 - WARNING - Invalid Command
+2025-05-09 21:55:12,534 - ERROR - Invlaid Input
+2025-05-09 22:02:37,106 - INFO - Candle Comination Started
+2025-05-09 22:02:37,135 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:37,142 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:37,151 - INFO - Candle Comination Started
+2025-05-09 22:02:37,178 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:37,181 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:37,191 - INFO - Candle Comination Started
+2025-05-09 22:02:37,218 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:37,222 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:37,230 - INFO - Candle Comination Started
+2025-05-09 22:02:37,259 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:37,261 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:37,270 - INFO - Candle Comination Started
+2025-05-09 22:02:37,300 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:37,303 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:37,310 - INFO - Candle Comination Started
+2025-05-09 22:02:37,338 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:37,341 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:37,349 - INFO - Candle Comination Started
+2025-05-09 22:02:37,378 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:37,380 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:38,375 - WARNING - Invalid Command
+2025-05-09 22:02:39,102 - ERROR - Invlaid Input
+2025-05-09 22:02:58,837 - INFO - Candle Comination Started
+2025-05-09 22:02:58,869 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:58,872 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:58,883 - INFO - Candle Comination Started
+2025-05-09 22:02:58,913 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:58,915 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:58,923 - INFO - Candle Comination Started
+2025-05-09 22:02:58,950 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:58,953 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:58,963 - INFO - Candle Comination Started
+2025-05-09 22:02:58,992 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:58,995 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:59,003 - INFO - Candle Comination Started
+2025-05-09 22:02:59,036 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:59,040 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:59,048 - INFO - Candle Comination Started
+2025-05-09 22:02:59,078 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:59,081 - INFO - Output will be saved in the current directory
+2025-05-09 22:02:59,091 - INFO - Candle Comination Started
+2025-05-09 22:02:59,129 - INFO - Combination of Candles into5 minute candle is complete and the new data has 75 rows
+2025-05-09 22:02:59,131 - INFO - Output will be saved in the current directory
+2025-05-09 22:03:01,373 - INFO - Data combining
+2025-05-09 22:03:03,842 - INFO - Converting dataframe
+2025-05-09 22:03:05,576 - INFO - Plotting Levels
